@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "641547d88c68eb956baa26ab"
+  },
+  "category": "Giày thể thao"
+},
+{
+  "_id": {
+    "$oid": "641547eb8c68eb956baa26ac"
+  },
+  "category": "Giày đá bóng"
+},
+{
+  "_id": {
+    "$oid": "641548138c68eb956baa26ad"
+  },
+  "category": "Sneaker"
+},
+{
+  "_id": {
+    "$oid": "641548608c68eb956baa26b0"
+  },
+  "category": "Đồng hồ"
+},
+{
+  "_id": {
+    "$oid": "6415486f8c68eb956baa26b1"
+  },
+  "category": "Bóng"
+}]

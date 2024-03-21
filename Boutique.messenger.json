@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "655487bbc72c3d485003d5e8"
+  },
+  "content": [
+    {
+      "id": "0.09019739979388652",
+      "message": "hi",
+      "name": "Manh Hoang",
+      "category": "receive"
+    },
+    {
+      "id": "0.8059786431394091",
+      "message": "hi",
+      "name": "ADMIN",
+      "category": "send"
+    }
+  ],
+  "id_user1": "5ff808424e24e9118cee77b2",
+  "id_user2": "655487bbc72c3d485003d5e7",
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "655487bbc72c3d485003d5e9"
+  },
+  "content": [
+    {
+      "id": "0.7583894844240573",
+      "message": "hi",
+      "name": "Manh Hoang",
+      "category": "send"
+    },
+    {
+      "id": "0.2078324378262688",
+      "message": "hi",
+      "name": "user",
+      "category": "receive"
+    }
+  ],
+  "id_user1": "655487bbc72c3d485003d5e7",
+  "id_user2": "5ff808424e24e9118cee77b2",
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6558aa4208da2757407fabaa"
+  },
+  "content": [],
+  "id_user1": "5ff808424e24e9118cee77b2",
+  "id_user2": "6558aa4208da2757407faba9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6558aa4208da2757407fabab"
+  },
+  "content": [],
+  "id_user1": "6558aa4208da2757407faba9",
+  "id_user2": "5ff808424e24e9118cee77b2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571bb06edfa6f2e400c98f2"
+  },
+  "content": [
+    {
+      "id": "0.5109370004765585",
+      "message": "hiiiiiii",
+      "name": "manhhoang",
+      "category": "send"
+    },
+    {
+      "id": "0.44479265137972823",
+      "message": "hello",
+      "name": "manhhoang",
+      "category": "send"
+    },
+    {
+      "id": "0.3534413221280859",
+      "message": "chaoban",
+      "name": "user",
+      "category": "receive"
+    }
+  ],
+  "id_user1": "6571bb05edfa6f2e400c98f0",
+  "id_user2": "5ff808424e24e9118cee77b2",
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "6571bb06edfa6f2e400c98f1"
+  },
+  "content": [
+    {
+      "id": "0.8604938213724309",
+      "message": "hiiiiiii",
+      "name": "manhhoang",
+      "category": "receive"
+    },
+    {
+      "id": "0.39495854557189447",
+      "message": "hello",
+      "name": "manhhoang",
+      "category": "receive"
+    },
+    {
+      "id": "0.7843327798273072",
+      "message": "chaoban",
+      "name": "ADMIN",
+      "category": "send"
+    }
+  ],
+  "id_user1": "5ff808424e24e9118cee77b2",
+  "id_user2": "6571bb05edfa6f2e400c98f0",
+  "__v": 3
+}]

@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6558aa1a08da2757407faba7"
+  },
+  "idProduct": "6553a3d0654b6a0704ad3174",
+  "idUser": "655487bbc72c3d485003d5e7",
+  "fullname": "Manh Hoang",
+  "content": "tốt",
+  "star1": "fas fa-star text-warning",
+  "star2": "",
+  "star3": "",
+  "star4": "",
+  "star5": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6558aa2608da2757407faba8"
+  },
+  "idProduct": "6553a3d0654b6a0704ad3174",
+  "idUser": "655487bbc72c3d485003d5e7",
+  "fullname": "Manh Hoang",
+  "content": "good",
+  "star1": "fas fa-star text-warning",
+  "star2": "fas fa-star text-warning",
+  "star3": "fas fa-star text-warning",
+  "star4": "fas fa-star text-warning",
+  "star5": "fas fa-star text-warning",
+  "__v": 0
+}]

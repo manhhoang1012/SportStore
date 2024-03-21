@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "655487fec72c3d485003d5eb"
+  },
+  "cart": [
+    {
+      "_id": {
+        "$oid": "655487e0c72c3d485003d5ea"
+      },
+      "idUser": "655487bbc72c3d485003d5e7",
+      "idProduct": "65545f84a9c51702103f4e16",
+      "nameProduct": "Giày Nike Pro",
+      "priceProduct": "550000",
+      "count": 2,
+      "img": "http://localhost:8000/giay-06.jpg",
+      "__v": 0
+    }
+  ],
+  "idUser": "655487bbc72c3d485003d5e7",
+  "fullname": "Hoang",
+  "phone": "012333333333",
+  "address": "Hutech",
+  "total": "1100000",
+  "status": true,
+  "__v": 0,
+  "delivery": "đã giao"
+},
+{
+  "_id": {
+    "$oid": "65548e6dc72c3d485003d5ed"
+  },
+  "cart": [
+    {
+      "_id": {
+        "$oid": "65548cf2c72c3d485003d5ec"
+      },
+      "idUser": "655487bbc72c3d485003d5e7",
+      "idProduct": "6553a3d0654b6a0704ad3174",
+      "nameProduct": "Giày Nike Sala II",
+      "priceProduct": "1200000",
+      "count": 1,
+      "img": "http://localhost:8000/giay-07.jpg",
+      "__v": 0
+    }
+  ],
+  "idUser": "655487bbc72c3d485003d5e7",
+  "fullname": "hoang",
+  "phone": "032560423",
+  "address": "hutech",
+  "total": "1200000",
+  "status": true,
+  "__v": 0,
+  "delivery": "đã giao"
+},
+{
+  "_id": {
+    "$oid": "6558a6ac08da2757407faba6"
+  },
+  "cart": [
+    {
+      "_id": {
+        "$oid": "6558a67108da2757407faba5"
+      },
+      "idUser": "655487bbc72c3d485003d5e7",
+      "idProduct": "6553a3d0654b6a0704ad3174",
+      "nameProduct": "Giày Nike Sala II",
+      "priceProduct": "1200000",
+      "count": 1,
+      "img": "http://localhost:8000/giay-07.jpg",
+      "__v": 0
+    }
+  ],
+  "idUser": "655487bbc72c3d485003d5e7",
+  "fullname": "hoang",
+  "phone": "0376381911",
+  "address": "36 tân hòa 2",
+  "total": "1200000",
+  "status": true,
+  "__v": 0,
+  "delivery": "đã giao"
+},
+{
+  "_id": {
+    "$oid": "6558aad908da2757407fabad"
+  },
+  "cart": [
+    {
+      "_id": {
+        "$oid": "6558aa9b08da2757407fabac"
+      },
+      "idUser": "6558aa4208da2757407faba9",
+      "idProduct": "6553a3d0654b6a0704ad3174",
+      "nameProduct": "Giày Nike Sala II",
+      "priceProduct": "1200000",
+      "count": 1,
+      "img": "http://localhost:8000/giay-07.jpg",
+      "__v": 0
+    }
+  ],
+  "idUser": "6558aa4208da2757407faba9",
+  "fullname": "duy",
+  "phone": "0376381911",
+  "address": "klsdjgf",
+  "total": "1200000",
+  "status": true,
+  "__v": 0,
+  "delivery": "đã giao"
+}]

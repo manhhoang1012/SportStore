@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "5ff808424e24e9118cee77b2"
+  },
+  "fullname": "admin",
+  "email": "admin@gmail.com",
+  "password": "123",
+  "phone": "0388634852"
+},
+{
+  "_id": {
+    "$oid": "655487bbc72c3d485003d5e7"
+  },
+  "fullname": "Manh Hoang",
+  "email": "em1@gmail.com",
+  "password": "123456",
+  "phone": "0125369822",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6558aa4208da2757407faba9"
+  },
+  "fullname": "duy",
+  "email": "em2@gmail.com",
+  "password": "123123",
+  "phone": "0376381911",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65562a5de31a30364c9fd5d7"
+  },
+  "fullname": "nguyen",
+  "email": "nguyentheson042@gmail.com",
+  "password": "181202",
+  "phone": "0987654321",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65572aa7045b0a26484d9727"
+  },
+  "fullname": "Nguyen The Son",
+  "email": "e1@gmail.com",
+  "password": "010102",
+  "phone": "379094171",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571bb05edfa6f2e400c98f0"
+  },
+  "fullname": "manhhoang",
+  "email": "haong123@gmail.com",
+  "password": "1233123",
+  "phone": "012345879",
+  "__v": 0
+}]
