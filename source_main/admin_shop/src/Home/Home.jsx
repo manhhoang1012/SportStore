@@ -133,13 +133,7 @@ function Home(props) {
                                                         <div className="mr-3"><img src="../assets/images/users/IMG_6225.jpg"
                                                             alt="user" className="rounded-circle" width="45"
                                                             height="45" /></div>
-                                                        <div className="">
-                                                            <h5 className="text-dark mb-0 font-16 font-weight-medium">Nguyen
-                                                            Kim Tien
-                                                            </h5>
-                                                            <span
-                                                                className="text-muted font-14">tienkim9920@gmail.com</span>
-                                                        </div>
+                                                        
                                                     </div>
                                                 </td>
                                                 <td className="border-top-0 text-muted px-2 py-4 font-14">Admin</td>
@@ -162,10 +156,7 @@ function Home(props) {
                     </div>
                 </div>
             </div>
-            <footer className="footer text-center text-muted">
-                All Rights Reserved by Adminmart. Designed and Developed by <a
-                    href="">The Son</a>.
-            </footer>
+            
         </div>
     );
 }

@@ -53,7 +53,7 @@ function Users(props) {
                                                 <th>Fullname</th>
                                                 <th>Email</th>
                                                 <th>Phone</th>
-                                                <th>Edit</th>
+                                                
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -64,11 +64,7 @@ function Users(props) {
                                                         <td>{value.fullname}</td>
                                                         <td>{value.email}</td>
                                                         <td>{value.phone}</td>
-                                                        <td>
-                                                            <a style={{cursor: 'pointer', color: 'white'}} className="btn btn-success">Update</a>
-                                                            &nbsp;
-                                                            <a style={{cursor: 'pointer', color: 'white'}} className="btn btn-danger">Delete</a>
-                                                        </td>
+                                                       
                                                     </tr>
                                                 ))
                                             }
@@ -80,10 +76,7 @@ function Users(props) {
                     </div>
                 </div>
             </div>
-            <footer className="footer text-center text-muted">
-                All Rights Reserved by Adminmart. Designed and Developed by <a
-                    href="">Nguyen The Son</a>.
-            </footer>
+           
         </div>
     );
 }

@@ -102,7 +102,7 @@ function History(props) {
                         <th>Total</th>
                         <th>Delivery</th>
                         <th>Status</th>
-                        <th>Detail</th>
+                        
                       </tr>
                     </thead>
                     <tbody>
@@ -137,14 +137,7 @@ function History(props) {
                                 ? "Đã Thanh Toán"
                                 : "Chưa Thanh Toán"}
                             </td>
-                            <td>
-                              <a
-                                style={{ cursor: "pointer", color: "white" }}
-                                className="btn btn-success"
-                              >
-                                View
-                              </a>
-                            </td>
+                            
                           </tr>
                         ))}
                     </tbody>
@@ -155,10 +148,7 @@ function History(props) {
           </div>
         </div>
       </div>
-      <footer className="footer text-center text-muted">
-        All Rights Reserved by Adminmart. Designed and Developed by{" "}
-        <a href="">The Son</a>.
-      </footer>
+      
     </div>
   );
 }

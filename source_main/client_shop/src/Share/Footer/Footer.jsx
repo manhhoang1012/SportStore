@@ -33,16 +33,6 @@ function Footer(props) {
                         </ul>
                     </div>
                 </div>
-                <div className="border-top pt-4" style={{ borderColor: '#1d1d1d !important' }}>
-                    <div className="row">
-                        <div className="col-lg-6">
-                            {/* <p className="small text-muted mb-0">&copy; 2020 All rights reserved.</p> */}
-                        </div>
-                        <div className="col-lg-6 text-lg-right">
-                            <p className="small text-muted mb-0">Template designed by <a className="text-white reset-anchor" href="#">The Son Nguyen</a></p>
-                        </div>
-                    </div>
-                </div>
             </div>
         </footer>
     );

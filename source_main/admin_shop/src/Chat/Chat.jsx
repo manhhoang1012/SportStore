@@ -313,10 +313,7 @@ function Chat(props) {
           </div>
         </div>
       </div>
-      <footer className="footer text-center">
-        All Rights Reserved by Adminmart. Designed and Developed by{" "}
-        <a href="">The Son</a>.
-      </footer>
+      
     </div>
   );
 }
