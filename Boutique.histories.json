@@ -105,4 +105,31 @@
   "status": true,
   "__v": 0,
   "delivery": "đã giao"
+},
+{
+  "_id": {
+    "$oid": "661fb00c71ff9731b46a4756"
+  },
+  "cart": [
+    {
+      "_id": {
+        "$oid": "661faff771ff9731b46a4755"
+      },
+      "idUser": "5ff808424e24e9118cee77b2",
+      "idProduct": "655460e4a9c51702103f4e18",
+      "nameProduct": "Adidas No1",
+      "priceProduct": "5000000",
+      "count": 2,
+      "img": "http://localhost:8000/giay-03.jpg",
+      "__v": 0
+    }
+  ],
+  "status": true,
+  "delivery": "đã giao",
+  "idUser": "5ff808424e24e9118cee77b2",
+  "fullname": "hoang",
+  "phone": "04235213432",
+  "address": "fsdgdfs",
+  "total": "10000000",
+  "__v": 0
 }]

@@ -24,25 +24,13 @@
 },
 {
   "_id": {
-    "$oid": "65719b165ce6b862142466ac"
-  },
-  "idUser": "655487bbc72c3d485003d5e7",
-  "idProduct": "6553a3d0654b6a0704ad3174",
-  "nameProduct": "Giày Nike Sala II",
-  "priceProduct": "1200000",
-  "count": 1,
-  "img": "http://localhost:8000/giay-07.jpg",
-  "__v": 0
-},
-{
-  "_id": {
     "$oid": "6571bb39edfa6f2e400c98f3"
   },
   "idUser": "6571bb05edfa6f2e400c98f0",
   "idProduct": "6553a3d0654b6a0704ad3174",
   "nameProduct": "Giày Nike Sala II",
   "priceProduct": "1200000",
-  "count": 2,
+  "count": 1,
   "img": "http://localhost:8000/giay-07.jpg",
   "__v": 0
 },

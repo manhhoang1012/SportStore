@@ -38,7 +38,7 @@
   "_id": {
     "$oid": "655460e4a9c51702103f4e18"
   },
-  "quantity": 30,
+  "quantity": 28,
   "name": "Adidas No1",
   "description": "Xịn",
   "price": "5000000",
@@ -194,7 +194,7 @@
   "description": "Xinh quá",
   "price": "100000",
   "category": "641548138c68eb956baa26ad",
-  "img1": "http://localhost:8000/sn2.jfif",
+  "img1": "http://localhost:8000/test.webp",
   "__v": 0
 },
 {
@@ -205,6 +205,17 @@
   "description": "Nhỏ nhắn",
   "price": "500000",
   "category": "641548138c68eb956baa26ad",
-  "img1": "http://localhost:8000/sn3.jfif",
+  "img1": "http://localhost:8000/logo192.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661faf5871ff9731b46a4754"
+  },
+  "name": "123",
+  "description": "12334",
+  "price": "100000",
+  "category": "641547d88c68eb956baa26ab",
+  "img1": "http://localhost:8000/favicon.ico",
   "__v": 0
 }]

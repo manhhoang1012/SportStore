@@ -29,26 +29,6 @@
 },
 {
   "_id": {
-    "$oid": "65562a5de31a30364c9fd5d7"
-  },
-  "fullname": "nguyen",
-  "email": "nguyentheson042@gmail.com",
-  "password": "181202",
-  "phone": "0987654321",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "65572aa7045b0a26484d9727"
-  },
-  "fullname": "Nguyen The Son",
-  "email": "e1@gmail.com",
-  "password": "010102",
-  "phone": "379094171",
-  "__v": 0
-},
-{
-  "_id": {
     "$oid": "6571bb05edfa6f2e400c98f0"
   },
   "fullname": "manhhoang",
